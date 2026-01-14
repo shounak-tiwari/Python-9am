@@ -1,0 +1,1 @@
+# Variable : Python is a Dynamic memory allocation which perform memory allocation in a heap the the memory of heap is poiting throught the reference object so python use refernce and this reference is known as variable 

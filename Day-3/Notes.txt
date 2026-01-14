@@ -1,0 +1,10 @@
+1. Easy to learn and read 
+2. Interpreted language 
+3. Dynamically types 
+4. Free and open souce 
+5. Large standard library and ecosystem or huge library 
+6. cross-platform
+7. Multiple programming praradigms 
+8. extensible and embeddabble 
+9. Automatica memory management 
+10.Community support 

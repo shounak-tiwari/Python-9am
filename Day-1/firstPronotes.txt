@@ -1,0 +1,31 @@
+Why Python?
+	a.Requires fewer lines of code compared to other programming like java & cpp 
+	b. Python has Huge libraries for many type of development like 
+		1. web -development 
+		2. Data Science and Data Analysis 
+		3. API development (Flask)
+		4. Testing 
+		5. Game Developement (Gamepy)
+	c. Python is a Cross-platform (Platform - independant) work on windows,mac and linux  
+		without any changes 
+	d. It is easy collabe with any technology like java , cpp, js etc...
+	e. It is High level language which is very similar from human natural language 
+
+Introduction of Python  :  Python is high-level ,general-purpose programming language its dynamic 
+and design philosophy emphasizes code readbility With the use significant indentation.. 
+	Python is Multi-paradigm(Object Oriented ,precedural,function ,structured, reflective)
+, interpreted programming language which is genrally 
+use for development of application  such that webapplication,dsapplication and testing 
+
+Guido van rossum began working on python in the late 1980s as a successor of ABC programming 
+language and its first version introduce in feb 20,1991... at CWI(Centrum wiskunde and informatica)
+Netherlands....
+
+
+	1. first version python 0.9.0 -> feb 20,1991
+
+Application (whatsapp) => (Chats) => calling 
+Application deve -> web dev -> Problem (Python) ---> new relese (bug fix + add 1,2 ) 3.12
+--> Auto security
+
+

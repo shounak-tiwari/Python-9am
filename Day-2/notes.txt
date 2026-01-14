@@ -1,0 +1,20 @@
+Feb 20,1991 python 0.9.0 
+Created By : Guido Van Rossum
+Developed at : CWI (Netherlands)
+    High-level programming language 
+    Core data type : int float string list dict 
+
+1991    Python 0.9.0
+1994    Python 1.0
+2000    Python 2.0
+2010    Python 3.0
+
+How to setup of python programming
+step 1: Open Web Browsers And search "www.python.org" 
+step 2: Select version of python Python 3.12/Python 3.13
+step 3: Add to path and click on install now 
+
+after complition of installation of python open cmd and write python --version
+
+
+Application (.exe)
