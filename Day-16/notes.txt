@@ -1,0 +1,25 @@
+Data Structure : Structure way to orgnise the data , which provide efficent/optimal programming.....
+1. String : Collection of Char  
+2. List :
+3. Set : Mathematics ,  
+4. Tuples : 
+5. Dict : 
+6. Int : 
+7. Bool : 
+8. Float : 
+
+Set : store multiple similar and dissmilar elements in a unordered way , and Duplicate element not possible 
+1. intersection :  How many elements common in Group
+2. diffence :  How many diffent elements in a Group
+3. symmetric diffence :  How many different elements in both groups
+4. Union 
+5. Update : add element of second set into first or vice versa 
+
+set store the items inside the curly brackets and seprated from commas....
+
+
+Funcky Pandey From Mirzapur
+Group 1 : Samrath, Vinay, Vinay Waskel, CNG , petrol ,lpg, disel 
+
+Billu Badmas From Indore
+Group 2 : Billu, pillu, Barood, Angaar, Samrath, Vinay, Vinay Waskel 
