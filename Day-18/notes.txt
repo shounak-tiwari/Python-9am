@@ -1,0 +1,108 @@
+String & List Practice Exercises — 100 Unsolved Questions
+
+Part A — String Exercises (1–50)
+
+1. Take a string input and print it in reverse.
+2. Count the number of characters in a string (without using len()).
+3. Count vowels in a string.
+4. Count consonants in a string.
+5. Check whether a string is a palindrome.
+6. Convert a string to uppercase without using built-in method.
+7. Convert a string to lowercase without using built-in method.
+8. Count digits in a string.
+9. Count special characters in a string.
+10. Remove all spaces from a string.
+11. Replace all vowels with `*`.
+12. Find frequency of each character in a string.
+13. Print only unique characters from a string.
+14. Remove duplicate characters from a string.
+15. Find first non-repeating character.
+16. Find first repeating character.
+17. Count number of words in a sentence.
+18. Find longest word in a sentence.
+19. Find shortest word in a sentence.
+20. Capitalize first letter of each word.
+21. Toggle case of each character.
+22. Check if two strings are anagrams.
+23. Merge two strings alternately.
+24. Remove a given character from string.
+25. Find index of all vowels.
+26. Split string into list of words (without split()).
+27. Join list of words into string (without join()).
+28. Print ASCII values of each character.
+29. Create string from ASCII values list.
+30. Check if string contains only digits.
+31. Check if string contains only alphabets.
+32. Extract only digits from string.
+33. Extract only alphabets from string.
+34. Count occurrence of a substring.
+35. Replace a substring with another substring.
+36. Find most frequent character.
+37. Find least frequent character.
+38. Remove punctuation from string.
+39. Reverse each word in sentence.
+40. Reverse word order in sentence.
+41. Check if string is rotation of another.
+42. Find all substrings of a string.
+43. Find all prefixes of string.
+44. Find all suffixes of string.
+45. Compress string (aaabb → a3b2).
+46. Expand compressed string (a3b2 → aaabb).
+47. Check if string is valid identifier.
+48. Remove extra spaces between words.
+49. Print characters at even index.
+50. Print characters at odd index.
+
+
+Part B — List Exercises (51–100)
+
+51. Create a list of 10 numbers from user input.
+52. Find sum of all elements.
+53. Find maximum element without max().
+54. Find minimum element without min().
+55. Find second largest element.
+56. Find second smallest element.
+57. Remove duplicates from list.
+58. Count frequency of each element.
+59. Reverse a list without reverse().
+60. Sort list without sort().
+61. Merge two lists.
+62. Find common elements in two lists.
+63. Find elements present in first but not second list.
+64. Rotate list left by 1.
+65. Rotate list right by 1.
+66. Rotate list by k positions.
+67. Split list into even and odd lists.
+68. Count even and odd numbers.
+69. Replace negative numbers with zero.
+70. Find all prime numbers in list.
+71. Find all palindrome numbers in list.
+72. Find sum of even index elements.
+73. Find sum of odd index elements.
+74. Insert element at given position.
+75. Delete element at given position.
+76. Remove all occurrences of a value.
+77. Find index of an element.
+78. Flatten nested list.
+79. Create list of squares of numbers.
+80. Create list of cubes of numbers.
+81. Filter numbers greater than given value.
+82. Multiply all elements in list.
+83. Swap first and last element.
+84. Swap two given positions.
+85. Check if list is palindrome.
+86. Find sublists of size k.
+87. Find longest increasing sublist length.
+88. Convert list of strings to uppercase.
+89. Convert list of strings to lowercase.
+90. Count strings with length > 5.
+91. Find longest string in list.
+92. Find shortest string in list.
+93. Remove empty strings from list.
+94. Join list of characters into string.
+95. Convert string into list of characters.
+96. Create list from range without using range().
+97. Separate integers and strings from mixed list.
+98. Find pair with given sum.
+99. Find all pairs with given sum.
+100. Find majority element in list.
