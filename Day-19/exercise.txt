@@ -1,0 +1,111 @@
+Part A — Tuple Basics (1–25)
+
+1. Create a tuple with 5 integers and print it.
+2. Create a tuple with mixed data types.
+3. Create a single-element tuple correctly.
+4. Convert a list into a tuple.
+5. Access the 3rd element of a tuple.
+6. Print the last element using negative indexing.
+7. Slice first 4 elements from a tuple.
+8. Reverse a tuple using slicing.
+9. Find length of a tuple.
+10. Count how many times a value appears in tuple.
+11. Find index of an element in tuple.
+12. Check if an element exists in tuple.
+13. Concatenate two tuples.
+14. Repeat a tuple 3 times.
+15. Iterate through a tuple using loop.
+16. Unpack tuple into variables.
+17. Swap two variables using tuple unpacking.
+18. Nested tuple access problem.
+19. Find max value in tuple.
+20. Find min value in tuple.
+21. Find sum of tuple elements.
+22. Convert tuple to string.
+23. Convert string to tuple of characters.
+24. Sort a tuple (without changing original).
+25. Remove duplicates from tuple (using conversion).
+
+🔹 Part B — Tuple Intermediate (26–50)
+
+26. Create tuple from user input numbers.
+27. Count even numbers in tuple.
+28. Count odd numbers in tuple.
+29. Find second largest element in tuple.
+30. Merge two tuples without duplicates.
+31. Convert tuple of tuples into single tuple.
+32. Find product of tuple numbers.
+33. Replace an element in tuple (without modifying directly).
+34. Remove an element by value from tuple.
+35. Check if tuple is palindrome.
+36. Create tuple of squares from 1–10.
+37. Zip two lists into tuple pairs.
+38. Unzip tuple pairs into two lists.
+39. Create tuple from range().
+40. Find frequency of all elements in tuple.
+41. Convert tuple into dictionary (index:value).
+42. Flatten nested tuple.
+43. Rotate tuple left by 1.
+44. Rotate tuple right by 1.
+45. Compare two tuples.
+46. Find common elements between two tuples.
+47. Tuple of prime numbers only.
+48. Tuple filtering (> 50 values).
+49. Tuple comprehension using generator → convert to tuple.
+50. Create tuple matrix and print diagonals.
+
+🔹 Part C — Set Basics (51–75)
+
+51. Create a set with 5 values.
+52. Create empty set correctly.
+53. Convert list to set.
+54. Remove duplicates using set.
+55. Add element to set.
+56. Add multiple elements to set.
+57. Remove element using remove().
+58. Remove element using discard().
+59. Pop an element from set.
+60. Clear a set.
+61. Find length of set.
+62. Check membership in set.
+63. Iterate through set.
+64. Union of two sets.
+65. Intersection of two sets.
+66. Difference of two sets.
+67. Symmetric difference of two sets.
+68. Check subset.
+69. Check superset.
+70. Check disjoint sets.
+71. Copy a set.
+72. Frozen set create.
+73. Convert string to set.
+74. Convert tuple to set.
+75. Convert set to list.
+
+🔹 Part D — Set Intermediate (76–100)
+
+76. Find common elements in 3 sets.
+77. Find unique elements across sets.
+78. Count vowels using set.
+79. Remove duplicates words from sentence.
+80. Find missing numbers using set difference.
+81. Check two lists have common elements.
+82. Find pair with given sum using set.
+83. Remove duplicates from user input numbers.
+84. Find intersection of multiple lists.
+85. Set of squares from list.
+86. Filter even numbers using set.
+87. Filter prime numbers using set.
+88. Create set from dictionary keys.
+89. Create set from dictionary values.
+90. Find max & min in set.
+91. Sort a set.
+92. Find elements present in only one set.
+93. Count frequency using set + list.
+94. Set based anagram check.
+95. Find duplicate characters using set.
+96. Find first non-repeating character.
+97. Check if two sets equal.
+98. Merge list of sets.
+99. Remove elements greater than X.
+100. Real-world problem: Students enrolled in Python & Java — find:
